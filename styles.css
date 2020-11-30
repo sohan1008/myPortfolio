@@ -20,6 +20,8 @@ hr {
 }
 
 .container-center {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
     max-width: 600px;
     margin: auto;
     text-align: center;
